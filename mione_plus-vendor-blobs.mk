@@ -111,6 +111,7 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
   vendor/xiaomi/mione_plus/proprietary/bin/cnd:system/bin/cnd \
+  vendor/xiaomi/mione_plus/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libcneqmiutils.so:system/lib/libcneqmiutils.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libcneutils.so:system/lib/libcneutils.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libxml.so:system/lib/libxml.so \
